@@ -34,8 +34,8 @@ chat = {
 }
 
 info = {
-   "Pronoun": "His", 
-   "Subject": "Him", 
+   "Pronoun": "his/him", 
+   "Subject": "he", 
    "Name": "William",
    "Full_Name":"William Robert Ko", 
    "Intro": "A student at the University of British Columbia studying Cognitive Systems, a multidisciplinary approach to studying artificial intelligence through the lens of computer science, psychology, philosophy, and linguistics",
