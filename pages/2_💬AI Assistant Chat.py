@@ -1,13 +1,20 @@
 import streamlit as st
 from utils.constants import *
 import torch
-from llama_index import (GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, 
-                         ServiceContext, LangchainEmbedding)
+
+# llama-index imports
+from llama_index import SimpleDirectoryReader, LLMPredictor, ServiceContext, VectorStoreIndex
+from llama_index.embeddings.langchain import LangchainEmbedding
+
+# langchain embeddings
 from langchain.embeddings import HuggingFaceInstructEmbeddings
+
+# IBM Watson
 from ibm_watson_machine_learning.foundation_models.extensions.langchain import WatsonxLLM
 from ibm_watson_machine_learning.foundation_models.utils.enums import ModelTypes, DecodingMethods
 from ibm_watson_machine_learning.metanames import GenTextParamsMetaNames as GenParams
 from ibm_watson_machine_learning.foundation_models import Model
+
 
 st.title("💬 Chat with My AI Assistant")
 def local_css(file_name):
