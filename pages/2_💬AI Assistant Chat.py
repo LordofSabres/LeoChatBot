@@ -95,7 +95,7 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
             'apikey' : Watsonx_API
         }
     
-       model_id="ibm/granite-13b-instruct-v2"
+        model_id="ibm/granite-13b-instruct-v2"
         
         model = Model(
             model_id= model_id,
