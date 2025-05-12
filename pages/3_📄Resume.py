@@ -32,7 +32,7 @@ with st.sidebar:
             """
         )
         
-    st.caption(f"© Made by Vicky Kuo 2023. All rights reserved.")
+    st.caption(f"© Made by William Robert Ko 2025. All rights reserved.")
  
 st.title("📝 Resume")
 
