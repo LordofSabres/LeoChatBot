@@ -1,86 +1,88 @@
 PROFILE SUMMARY
-Vicky is an IT enthusiast with a user-focused and data-driven mindset, relentlessly challenging the status quo. With four years of full-time work and study experience, her journey began in Taiwan, where she embarked on a technology career while completing her degree in software engineering. This journey led her to Canada, where she is currently a data scientist intern, pursuing a master's degree in IT. She thrives on pushing herself beyond limits and has worked in diverse domains, including e-commerce, HR information systems, and chronic disease projects. Vicky's work blends technical skills with business insights, fostering real innovation.
+William is a curious and driven software developer with a foundation in Cognitive Systems, combining computer science, psychology, and AI. With experience spanning full-stack development, machine learning, and technical writing, William thrives at the intersection of user experience and innovation. He has contributed to impactful projects across education, web development, and cloud infrastructure, always seeking to build tools that are intelligent, accessible, and intuitive. Currently pursuing a BSc at UBC, William blends technical execution with a deep understanding of human behavior and cognition.
 
 ACHIEVEMENTS
-- Technical Contributions: Vicky's technical prowess extended to creating impactful technical content for a global audience, enhancing learning experiences in Data Science, Machine Learning, and Software Development. Additionally, she applied Generative AI to optimize sales processes and collaborated with Snowflake for content promotion.
-- Efficient Data Management: Within the SaaS sector, Vicky excelled at streamlining data migration processes for over 300 companies. Her proficiency in web scraping and SQL optimization proved invaluable for internal data access and analytics. Furthermore, she successfully reduced churn rates by 3% through diligent troubleshooting, user trend analysis, and the creation of user guides. These achievements underline her expertise in harnessing technology for data management and process optimization.
-- E-commerce Revenue Boost: In an E-commerce environment, Vicky's leadership in a government subsidy project resulted in a remarkable 569% revenue increase. She achieved this by implementing a Python-based web scraper to automate daily updates on government subsidies. This not only reduced manual work but also ensured real-time information for the team, contributing significantly to revenue growth.
+- AI and Machine Learning Innovation: William is developing a sarcasm detection system (SAM) using Python, HuggingFace, and contextual analysis to improve sentiment recognition accuracy — a novel approach to understanding nuance in language.
+- Technical Impact: At 11Trees, William improved user experience by 30% through enhanced workflows and built a powerful advanced search feature that reduced query time by 40%.
+- Cloud and Infrastructure Optimization: At Learning Buddies Network, he implemented AWS-based backup systems and streamlined data workflows, boosting collaboration and reliability.
+
+
 
 STRENGTHS AND ADVANTAGES
-- Proficient in data analysis, AI, and web development.
-- Creative and agile problem solver.
+- Experience in Full-stack development (React, JavaScript, PHP, SQL)
+- AI & ML application development
+- Creative, structured thinker with strong problem-solving skills
+- Unique cognitive perspective shaped by ASD, enabling high pattern recognition and logical precision
 
 WEAKNESSES AND DISADVANTAGES
-Vicky's strong drive for achieving results occasionally led her to prioritize outcomes over nurturing a growth mindset. However, she recognized the importance of learning from each experience and preventing the same failures in the future. She also believes that fostering a growth mindset can contribute to a more open-minded and collaborative teamwork environment.
+While William’s attention to technical detail often drives high performance, he occasionally needs to balance speed with long-term maintainability. He is actively refining his design-thinking mindset to improve scalability and user inclusivity in future builds.
 
 LATEST PROJECTS
-The most recent project she has completed is the development of this website using watsonx and Streamlit. Its primary purpose is to serve as a central hub for potential employers to explore her portfolio, providing insights into her work and projects.
-Additionally, she's currently dedicating her efforts to a research thesis focused on innovative optimization within the field of computer vision. Her ultimate goal is to leverage the outcomes of this research to drive advancements in the realm of medical image analysis in the future.
+The most recent project he has completed is the development of this website using watsonx and Streamlit. Its primary purpose is to serve as a central hub for potential employers to explore his portfolio, providing insights into his work and projects.
+Additionally, he's currently dedicating his efforts to a STEM instructor position, teaching different workshops to students from grades K-12.
 
-SALARY EXPECTATION OR EXPECTED SALARY: Vicky is looking for a competitive salary that is evaluated based on her experience and education.
+SALARY EXPECTATION OR EXPECTED SALARY: William is looking for a competitive salary that is evaluated based on his experience and education.
 
 AVAILABILITY TO WORK
-Vicky will be available to work from May 2024.
+William will be available to work from September 2025.
 
 CONTACT
-- Address: Toronto, Ontario
-- Phone number: 123-456-7890
-- Email: vicky.kuo.contact@gmail.com
+- Address: Vancouver, British Columbia, Canada
+- Phone number: 602-481-4800
+- Email: ko.william.robert@gmail.com
 
 SKILLS
-- Coding: Python, SQL, Docker, HTML, Java
-- Business Intelligence: Redash, Tableau, Looker
-- Project Management Software: Trello, Jira, Confluence, Asana, Monday.com, Zenhub
-- CRM Software: Hubspot, Zendesk
-- Log Management: Kibana
-- API Testing Tool: Swagger
-- Product Analytics: Amplitude
+- Coding Languages: Python, SQL, JavaScript, Java, HTML/CSS, C#, PHP, R
+- Frameworks & Tools: React, Node.js, Bootstrap, WordPress, XAMPP
+- Developer Tools: Git, VS Code, IntelliJ, Jupyter, Google Colab, Linux
+- Libraries & Data Tools: pandas, NumPy, Matplotlib
+- Cloud & API: AWS, Google Maps, OpenAI
+- Project Management Software: Jira, Notion
 - Prototyping and UML: Figma
 - Localization Tool: Localise
 - Computer Skills: MS Office
+- Strong People Leadership Abilities: Developed through work and as VP Internal for UBC Quantum Club
+- Effective Teamwork and Independent work skills: Honed in participating in hackathon teams and classes
+- Strong communication skills, Creativity, Excellent work-ethic, Adaptability, Time management, and Organization
+- Public Speaking & Presentation delivery: Experienced in leading tours, orientations, and large-scale student events.
+- Student Advising & Peer Support: Skilled in supporting new and prospective students with empathy and clarity.
+- Event Planning & Coordination Organized social, academic, and onboarding events for 45-200+ participants.
+- Cross-Cultural Communication: Comfortable engaging with diverse and international student populations.
+- Interpersonal & Team Leadership Developed through student leadership, peer roles, and collaborative projects.
+- Self-Motivated & Organized: Strong time management and independence in fast-paced settings.
+- Valid Driver’s License & First Aid Certified
 
 EDUCATION BACKGROUND
-MA in Information Systems and Technology
-- York University, Toronto, Canada
-- Sep 2022 - Expected Spring 2024
-- Cumulative GPA: 3.8 / 4.0
-- Award: York Fellowship (2022)
-BSc in Software Engineering
-- Fu Jen Catholic University, Taipei, Taiwan
-- Sep 2018 - Jun 2021
-- Cumulative GPA: 3.78 / 4.0
-- Awards: Academic Excellence (2018, 2019 & 2021)
+BSc in Cognitive Systems (Brain & Cognition)
+- University of British Columbia, Vancouver, BC, Canada
+- Aug 2022 - Expected May 2027
+- Courses: AI, Machine Learning, Software Construction, Data Structures, Logic, Data Science
 
 WORK EXPERIENCE
-Data Scientist Intern
-- IBM, Toronto, Canada
-- May 2023 - Present
-- Tech Stack: Generative AI, Web Development, Machine Learning
-- Details and Responsibilities: Creating technical content (projects, labs, and write-ups) for Data Science/Machine Learning and Software Development on the Skills Network Team and Coursera, assisting in enhancing the learning experience for a diverse learners population worldwide.
+Workshop Instructor & Camps Instructor
+- UBC Geering Up Engineering Outreach, Vancouver, Canada
+- May 2025 - Present
+- Tech Stack: Generative AI, Machine Learning, Scratch
+- Details and Responsibilities: Creating and teaching technical content to students of grades K-12
 
-Founding Member and Full Stack Developer
-- Terranova Health Network, Toronto, Canada
-- May 2023 – Present
-- Tech Stack: Web Development
-- Details and Responsibilities: Co-creating digital healthcare software and crafting pitch decks for chronic disease patients.
+Program Assistant and Developer
+- Learning Buddies Network, Vancouver, Canada
+- Jun 2023 – Oct 2023
+- Tech Stack: AWS, Linux, Google Drive
+- Details and Responsibilities: Implemented AWS-based R-Sync database backups, streamlined training materials on Google Drive, and supported tutoring kit assembly for communities across Metro Vancouver.
 
-Research and Teaching Assistant
-- York University, Toronto, Canada
-- Sep 2022 – Present
-- Tech Stack: Python, Tableau, SQL
-- Details and Responsibilities: Utilized numerical optimization algorithms and machine learning techniques to analyze complex datasets, including medical data from Sunnybrook Hospital, yielding actionable insights.
-
-Implementation Consultant
-- Swingvy (SaaS-based HRIS company), Taipei, Taiwan
-- Dec 2020 – Aug 2022
-- Tech Stack: Jira, CRM, BI, HTML, SQL, Prototyping, Python
-- Details and Responsibilities: Led technical expertise for over 300 companies, with a focus on innovation in HR process optimization. This involved streamlining data migration, accelerating UX with rapid MVP delivery, and achieving a 3% churn rate reduction.
+Full-Stack Intern
+- 11Trees, Austin, Texas, United States (Remote)
+- Apr 2021 – Dec 2021
+- Tech Stack: JavaScript, SQL, PHP, Bootstrap, HTML, CSS
+- Details and Responsibilities: Redesigned AnnotatePro’s edit interface and built an advanced search feature using PHP, MySQL, and AJAX, improving user efficiency by 30% and reducing search time by 40%.
 
 CERTIFICATES
-- AWS Certified Cloud Practitioner
-- IBM Data Analysis and Visualization Foundations
-- IBM Data Analyst Capstone Project
-- IBM Databases and SQL for Data Science with Python
+- MTA: Mobility and Device Fundamentals
+- MTA: Introduction to Programming Using Java
+- MTA: Introduction to Programming Using Python
+- MTA: Introduction to Programming Using JavaScript
+
 
 REFERENCE
 References are available upon request.
