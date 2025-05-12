@@ -41,7 +41,6 @@ info = {
    "Intro": "A student at the University of British Columbia studying Cognitive Systems, a multidisciplinary approach to studying artificial intelligence through the lens of computer science, psychology, philosophy, and linguistics",
    "About":"Hi, I'm William Ko - a Cognitive Systems student at UBC specializing in Brain & Cognition with a passion for building intuitive, intelligent software. I’ve developed full-stack web applications, contributed to impactful machine learning projects, and worked with organizations like 11Trees and Learning Buddies Network to deliver efficient, scalable solutions. With experience in React, JavaScript, Python, MySQL, and cloud tools like AWS, I thrive at the intersection of usability and innovation. Whether it's optimizing a sarcasm detection model or designing recipe apps from scratch, I enjoy tackling technical challenges that blend creativity and logic. Feel free to explore my portfolio - each project is a reflection of my curiosity, structured thinking, and drive to make technology more accessible and engaging.",
    "Project":"https://github.com/LordofSabres",
-   "Medium":"https://medium.com/@vicky-note/about",
    "City":"Vancouver, Canada",
    "Resume": "https://drive.google.com/file/d/1tpJQCMDoePwazbIaePA3z6jsFi6wEo51/view?usp=sharing",
    "Email": "ko.william.robert@gmail.com" 
