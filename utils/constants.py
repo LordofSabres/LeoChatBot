@@ -34,73 +34,37 @@ chat = {
 }
 
 info = {
-   "Pronoun": "her", 
-   "Subject": "she", 
-   "Name": "Vicky",
-   "Full_Name":"Vicky Kuo", 
-   "Intro": "A Tech Educator and AI Enthusiast at cognitiveclass.ai",
-   "About":"Hello, I'm Vicky, and I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. You can explore my portfolio of free courses and resources at cognitiveclass.ai to see how I can contribute to your team's success.",
-   "Project":"https://author.skills.network/instructors/vicky_kuo",
+   "Pronoun": "He", 
+   "Subject": "Him", 
+   "Name": "William",
+   "Full_Name":"William Robert Ko", 
+   "Intro": "A student at the University of British Columbia studying Cognitive Systems, a multidisciplinary approach to studying artificial intelligence through the lens of computer science, psychology, philosophy, and linguistics",
+   "About":"Hi, I'm William Ko - a Cognitive Systems student at UBC specializing in Brain & Cognition with a passion for building intuitive, intelligent software. I’ve developed full-stack web applications, contributed to impactful machine learning projects, and worked with organizations like 11Trees and Learning Buddies Network to deliver efficient, scalable solutions. With experience in React, JavaScript, Python, MySQL, and cloud tools like AWS, I thrive at the intersection of usability and innovation. Whether it's optimizing a sarcasm detection model or designing recipe apps from scratch, I enjoy tackling technical challenges that blend creativity and logic. Feel free to explore my portfolio - each project is a reflection of my curiosity, structured thinking, and drive to make technology more accessible and engaging.",
+   "Project":"https://github.com/LordofSabres",
    "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
-   "Resume": "https://drive.google.com/file/d/1e_trgOgzwYIY6eMSvjmyjgqBcCOdueZ1/view?usp=sharing",
-   "Email": "vicky.kuo.contact@gmail.com" 
+   "City":"Vancouver, Canada",
+   "Resume": "https://drive.google.com/file/d/1tpJQCMDoePwazbIaePA3z6jsFi6wEo51/view?usp=sharing",
+   "Email": "ko.william.robert@gmail.com" 
 }
 
 projects = [
         {
-            "title": "Unlocking Multilingual Magic: Babel Fish with LLM STT TTS",
-            "description": "Text-to-Speech, Speech-To-Text, LLM, watsonx",
+            "title": "SAM: Sarcasm Authentication Model",
+            "description": "Speech-To-Text, LLM, Python, React Native, HuggingFace, Pandas",
             "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/babel.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0PPIEN+v1"
+            "link": "https://devpost.com/software/sam-sarcasm-authentication-model"
         },
         {
-            "title": "Summarize Your Private Data with LLMs & Generative AI",
-            "description": "LLM, watsonx, watsonx.ai",
+            "title": "Cook Zillion: Digital Cookbook, Inventory, and Meal Decision Maker",
+            "description": "JavaScript, PHP, MySQL, HTML, CSS, XAMPP",
             "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/summary.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0DTPEN+v1"
+            "link": "https://cookbook.williamko.ca/"
         },      
         {
-            "title": "Improve Customer Support Efficiency with Open-Source LLM",
-            "description": "Generative AI",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/CS.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0FUSEN+v1"
-        },
-        {
-            "title": "A Quick Introduction to Machine Learning",
-            "description": "Machine Learning",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/ML.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+ML0104EN+v1"
-        },
-        {
-            "title": "Reinforcement Learning and Deep Learning Essentials",
-            "description": "Reinforcement Learning, Keras, PyTorch",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/RL.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+ML0105EN+v1"
-        },
-        {
-            "title": "Automate ML Pipelines Using Apache Airflow",
-            "description": "Machine Learning Pipeline",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/airflow.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0DNQEN+v1"
-        },
-        {
-            "title": "Create Your Own ChatGPT-like Website with Open Source LLMs",
-            "description": "LLM, Chatbot, Generative AI",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/chatgpt.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1"
-        },
-        {
-            "title": "A Quick Introduction to Machine Learning",
-            "description": "Machine Learning",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/ML.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+ML0104EN+v1"
-        },
-        {
-            "title": "Build an AI Web App for Diamond Price Prediction",
-            "description": "Machine Learning, Data Science",
+            "title": "UBCOnTime",
+            "description": "JavaScript, CSS, HTML, Node, Express",
             "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/diamond.png",
-            "link": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0FTNEN+v1"
+            "link": "https://github.com/LordofSabres/WHMJ-Project"
         }                  
     ]
 
