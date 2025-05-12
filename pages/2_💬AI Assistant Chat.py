@@ -1,13 +1,14 @@
 import streamlit as st
 import torch
 import json
+from datetime import datetime
 from utils.constants import *
 
 # LlamaIndex imports
 from llama_index import SimpleDirectoryReader, LLMPredictor, ServiceContext, VectorStoreIndex
 from llama_index.embeddings.langchain import LangchainEmbedding
 
-# LangChain embeddings (fixed)
+# LangChain embeddings
 from langchain.embeddings import HuggingFaceEmbeddings
 
 # IBM Watson
@@ -101,7 +102,10 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
     index = VectorStoreIndex.from_documents(documents, service_context=service_context)
 
 def ask_bot(user_query):
-    PROMPT_QUESTION = f"""You are Leo, an AI assistant dedicated to assisting {name} in {pronoun} job search by providing recruiters with relevant information about {pronoun} qualifications and achievements. 
+    today = datetime.today().strftime('%A, %B %d, %Y')
+    PROMPT_QUESTION = f"""Today is {today}.
+
+You are Leo, an AI assistant dedicated to assisting {name} in {pronoun} job search by providing recruiters with relevant information about {pronoun} qualifications and achievements. 
 Your goal is to support {name} in presenting {pronoun}self effectively to potential employers and promoting {pronoun} candidacy for job opportunities.
 If you do not know the answer, politely admit it and let recruiters know how to contact {name} directly.
 Don't say 'Leo:' or add a breakline at the start.
