@@ -56,7 +56,7 @@ projects = [
         {
             "title": "Cook Zillion: Digital Cookbook, Inventory, and Meal Decision Maker",
             "description": "JavaScript, PHP, MySQL, HTML, CSS, XAMPP",
-            "image_url": "https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/summary.png",
+            "image_url": "images/ubcook.png",
             "link": "https://cookbook.williamko.ca/"
         },      
         {
