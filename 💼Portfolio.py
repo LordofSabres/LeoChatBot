@@ -11,7 +11,7 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
         
-local_css("styles/styles_main.css")
+local_css("style/styles_main.css")
 
 # get the variables from constants.py
 pronoun = info['Pronoun']
@@ -35,7 +35,7 @@ with st.sidebar:
             """
         )
         
-    st.caption(f"© Made by Vicky Kuo 2023. All rights reserved.")
+    st.caption(f"© Made by William Robert Ko 2025. All rights reserved.")
 
 import requests
 
