@@ -75,7 +75,7 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
     embeddings = None
     
     Watsonx_API = "eOjQXQsmyOnr_YFjKUEyGyxQG7GTCNQxsEL6rwr99g5P"
-    Project_id= "0fe9b150-23cd-4e80-81df-caf459f84a69"
+    Project_id= "2ee58a27-be42-4e80-87e7-c2f885da2287"
 
     # Function to initialize the language model and its embeddings
     def init_llm():
@@ -95,7 +95,7 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
             'apikey' : Watsonx_API
         }
     
-        model_id = ModelTypes.LLAMA_2_70B_CHAT
+       model_id="ibm/granite-13b-instruct-v2"
         
         model = Model(
             model_id= model_id,
